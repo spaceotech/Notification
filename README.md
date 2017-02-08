@@ -4,7 +4,7 @@ iOS Push Notifications
 
 If you’re a developer, then you know that importance of push notification. So, it’s important that you understand the process of configuring this feature in your next project.
 
-Therefore, in this tutorial, I’m going to share step-by-step process of doing the same. Now, the process that I’ve shared in this tutorial on [how to configure push notifications](https://www.spaceotechnologies.com/configure-ios-app-push-notifications/) is the same process that we use at the Space-O Technologies.
+Therefore, in this tutorial, We are going to share step-by-step process of doing the same. Now, the process that we’ve shared in this tutorial on [how to configure push notifications](https://www.spaceotechnologies.com/configure-ios-app-push-notifications/) is the same process that we have used.
 
 So, there are basically three important tasks you need to perform for enabling push notification feature in your app and they are as follow.
 
